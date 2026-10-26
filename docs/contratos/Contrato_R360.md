@@ -2,30 +2,34 @@
 
 Control de Servicios R360
 
-BORRADOR PARA REVISIÓN · Versión 5
-
-DOCUMENTO PARA REVISIÓN
-
-Esta versión se presenta para revisión de LAS PARTES y no acredita firma ni aceptación. Los campos de identificación se completarán para la versión de firma. El Anexo D distingue las condiciones pendientes de acuerdo de las especificaciones operativas que se definirán durante el proyecto en los plazos previstos. Las propuestas de cláusulas jurídicas, incluidos plazo de cesión y mecanismos de terminación, quedan sujetas a revisión y aceptación expresa.
-
 ## 1. PARTES Y DATOS DEL CONTRATO
 
-Celebran este contrato, por una parte, Eric [NOMBRE LEGAL COMPLETO POR CONFIRMAR], en adelante «EL CLIENTE» y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, en adelante «EL PRESTADOR», conjuntamente «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
+Celebran este contrato, por una parte, ______________________________, en adelante «EL CLIENTE» y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, en adelante «EL PRESTADOR», conjuntamente «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
 
 | Dato | EL CLIENTE | EL PRESTADOR |
 | --- | --- | --- |
-| Nombre o razón social | Eric [NOMBRE LEGAL COMPLETO POR CONFIRMAR] | Roberto Alejandro Guzmán Winzig |
-| Carácter de contratación | [POR PROPIO DERECHO / REPRESENTACIÓN POR CONFIRMAR] | Persona física, por propio derecho |
-| RFC | [POR COMPLETAR] | [POR COMPLETAR] |
-| Domicilio fiscal y para avisos | [POR COMPLETAR] | [POR COMPLETAR] |
-| Representante y cargo, si aplica | [POR COMPLETAR] | No aplica; firma por propio derecho |
-| Instrumento de constitución y poderes, si aplica | [POR COMPLETAR / NO APLICA] | No aplica |
-| Correo para notificaciones contractuales | [POR COMPLETAR] | [POR COMPLETAR] |
-| Responsable del proyecto y correo | [POR COMPLETAR] | [POR COMPLETAR] |
+| Nombre o razón social | ______________________________ | Roberto Alejandro Guzmán Winzig |
+| Carácter de contratación | ____________________ | Persona física, por propio derecho |
+| RFC | ____________________ | ____________________ |
+| Domicilio fiscal y para avisos | ____________________ | ____________________ |
+| Representante y cargo, si aplica | ____________________ | No aplica; firma por propio derecho |
+| Instrumento de constitución y poderes, si aplica | ____________________ | No aplica |
+| Correo para notificaciones contractuales | ____________________ | ____________________ |
+| Responsable del proyecto y correo | ____________________ | ____________________ |
 
-R360 es la denominación del proyecto y no se presume que sea una persona jurídica. La propuesta está dirigida a Eric Fabián Muñoz, socio director; esa mención no acredita por sí sola quién contrata ni sus facultades. El titular de la cesión será [ERIC FABIÁN MUÑOZ / ENTIDAD DESIGNADA, IDENTIFICACIÓN COMPLETA: POR COMPLETAR], denominado «EL CESIONARIO». Si es distinto de EL CLIENTE, firmará la aceptación de la cesión y se documentará la designación por escrito.
+La denominación «R360» identifica el proyecto. La identidad y, en su caso, la representación de la parte contratante son las asentadas en esta sección.
 
-Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, México. Fecha de firma: [DÍA/MES/AÑO]. Si la firma ocurre después de la vigencia de la propuesta, la firma de ambas partes ratificará expresamente el precio y las condiciones incorporadas en este contrato.
+El titular de los derechos patrimoniales sobre los resultados será EL CLIENTE o la persona que este designe por escrito, en adelante «EL CESIONARIO».
+
+Nombre o razón social de EL CESIONARIO: ______________________________.
+
+Si EL CESIONARIO es distinto de EL CLIENTE, su designación y aceptación deberán constar por escrito y deberá suscribir el apartado de cesión correspondiente.
+
+Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, México.
+
+Fecha de firma: ______ de __________________ de __________.
+
+La firma de este contrato ratifica el precio y las condiciones comerciales aquí establecidos.
 
 ## 2. DECLARACIONES
 
@@ -35,17 +39,17 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 2.3. EL PRESTADOR declara contar con conocimientos, personal y capacidad de entrega suficientes para el alcance y calendario contratados. La firma implica que ha confirmado dicha capacidad antes de contratar. Conservará la responsabilidad por las personas que utilice y por la calidad de su trabajo.
 
-2.4. LAS PARTES reconocen como antecedente comercial la cotización COT-R360-20261017-15, base comercial de 17 de octubre de 2026, en su revisión funcional actualizada para este cierre, integrada como documento de referencia. El presente contrato y sus anexos firmados constituyen el acuerdo vinculante. Otros documentos únicamente se incorporarán mediante acuerdo escrito de LAS PARTES.
+2.4. LAS PARTES reconocen como antecedente comercial la cotización COT-R360-20261017-15, base comercial de 17 de octubre de 2026, en su revisión funcional, integrada como documento de referencia. El presente contrato y sus anexos firmados constituyen el acuerdo vinculante. Otros documentos únicamente se incorporarán mediante acuerdo escrito de LAS PARTES.
 
 ## 3. OBJETO, DOCUMENTOS Y DEFINICIONES
 
 3.1. EL PRESTADOR diseñará, desarrollará, configurará, probará, desplegará y documentará Control de Servicios R360, capacitará a sus usuarios y entregará los resultados y derechos contratados. EL CLIENTE pagará el precio y colaborará en los términos convenidos.
 
-3.2. Integran este contrato: Anexo A, alcance y entregables; Anexo B, calendario, pagos y aceptación; Anexo C, tratamiento y seguridad de información; Anexo D, registro de definiciones y pendientes; y Anexo E, formatos de control. Todos deberán rubricarse o identificarse expresamente en la firma electrónica.
+3.2. Integran este contrato: Anexo A, alcance y entregables; Anexo B, calendario, pagos y aceptación; Anexo C, tratamiento y seguridad de información; Anexo D, parámetros operativos y niveles de servicio; y Anexo E, formatos de control. Todos deberán rubricarse o identificarse expresamente en la firma electrónica.
 
 3.3. Una modificación firmada posterior prevalecerá únicamente sobre lo que cambie de manera expresa. Para lo restante prevalecen este contrato y sus anexos sobre la cotización. Ningún acta operativa podrá eliminar prestaciones cotizadas, aumentar el precio, ceder derechos o imponer penalizaciones sin autorización contractual expresa de representantes facultados.
 
-3.4. «Defecto» es una diferencia reproducible respecto del alcance o de los criterios aprobados; «cambio» es una modificación o ampliación de ese alcance. «Falla crítica» es la que impide un recorrido esencial sin alternativa razonable, ocasiona pérdida o corrupción relevante de datos, acceso no autorizado o vulneración de la separación entre clientes. «Entrega» es la puesta a disposición verificable de un resultado; «aceptación» es su conformidad expresa y escrita tras la revisión acordada.
+3.4. «Defecto» es una diferencia reproducible respecto del alcance o de los criterios aprobados; «cambio» es una modificación o ampliación de ese alcance. «Falla crítica» es la que impide un recorrido esencial sin alternativa razonable, ocasiona pérdida o corrupción relevante de datos, acceso no autorizado o vulneración de la separación entre clientes. «Entrega» es la puesta a disposición verificable de un resultado; «aceptación» es su conformidad expresa y escrita tras la revisión acordada. «API» significa interfaz de programación de aplicaciones. «SLA» identifica los niveles de servicio y sus métricas de atención, disponibilidad o recuperación expresamente convenidos.
 
 3.5. Los días naturales incluyen todos los días del calendario. Los días hábiles serán de lunes a viernes, excepto descansos obligatorios aplicables en México. Los avisos se regirán por la hora de Naucalpan de Juárez, Estado de México (zona America/Mexico_City). Los meses de ejecución son periodos mensuales sucesivos desde el arranque; cuando no exista el mismo día en el mes siguiente, el periodo vencerá el último día de ese mes.
 
@@ -55,7 +59,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 4.2. EL CLIENTE tendrá autonomía para administrar cuentas, usuarios, permisos, información y operación. Se definirán los dispositivos, formatos, tamaños, reglas y recorridos soportados sin reducir las funciones expresamente contratadas. La aplicación requiere internet; no se contrata funcionamiento sin conexión.
 
-4.3. No se incluyen funciones de inteligencia artificial, transferencia de dinero, emisión de CFDI por la plataforma ni garantías de resultado jurídico. La Asesoría Telefónica incluida en el portafolio consiste en la administración del servicio profesional. Se incluye la importación y exportación por cliente de R360, también por lotes, con formatos y reglas definidos conforme a A.6; su especificación pendiente no la convierte en un extra por sí misma.
+4.3. No se incluyen funciones de inteligencia artificial, transferencia de dinero, emisión de CFDI por la plataforma ni garantías de resultado jurídico. La Asesoría Telefónica incluida en el portafolio consiste en la administración del servicio profesional. Se incluye la importación y exportación por cliente de R360, también por lotes, con formatos y reglas definidos conforme a A.6; la definición de sus especificaciones no constituye, por sí misma, una ampliación cobrable.
 
 4.4. Se incluyen el intercambio y las integraciones de información por cliente de R360 comprendidos en el precio. LAS PARTES identificarán por escrito los clientes y los sistemas objeto de integración, así como los recorridos cubiertos, conforme se definan durante el proyecto, sin presumir un número ilimitado de conectores futuros. Cada conexión requiere conocer el sistema externo, obtener documentación, muestras, accesos, licencias y autorizaciones válidas. La definición de un conector incluido no autoriza un nuevo cobro; cualquier ampliación real deberá justificarse y aprobarse conforme a la cláusula 10. No se presume que todos los clientes dispongan de la misma API o formato.
 
@@ -63,7 +67,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 ## 5. ARRANQUE Y PLAZO
 
-5.1. La fecha de arranque «T0» será aquella en que se encuentren cumplidos conjuntamente: primer pago, aprobación escrita de las funciones iniciales y entrega de los accesos necesarios para iniciar. Se asentará en el acta del Anexo E, con evidencia de cumplimiento, pendientes no bloqueantes y fechas de los hitos. Ninguna parte podrá diferirla mediante requisitos no necesarios o no informados oportunamente.
+5.1. La fecha de arranque «T0» será aquella en que se encuentren cumplidos conjuntamente: primer pago, aprobación escrita de las funciones iniciales y entrega de los accesos necesarios para iniciar. Se asentará en el acta del Anexo E, con evidencia de cumplimiento, dependencias no críticas y fechas de los hitos. Ninguna parte podrá diferirla mediante requisitos no necesarios o no informados oportunamente.
 
 5.2. La aprobación de funciones iniciales fija la base para iniciar; la definición detallada de reglas, catálogos, recorridos y criterios se realiza durante los días 1 a 15 desde T0. Esta definición deberá respetar el alcance contratado y no reiniciar el cómputo por sí misma.
 
@@ -91,7 +95,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 7.4. El pago de un periodo no constituye aceptación de avances ni renuncia a exigir entregables previos. La aceptación final deberá coordinarse con la puesta a disposición de código, documentos y demás resultados para su revisión; la cesión y entrega definitiva de derechos se perfeccionan al liquidar. No se podrá exigir el último pago antes de la aceptación final pactada.
 
-7.5. Los gastos o trabajos adicionales requerirán autorización previa y escrita con importe y condiciones. No se pactan intereses moratorios, cargos automáticos, multas ni penalizaciones en este documento. La mora se notificará y tratará conforme a la cláusula de incumplimiento, sin privar a EL CLIENTE del acceso a sus datos.
+7.5. Los gastos o trabajos adicionales requerirán autorización previa y escrita con importe y condiciones. Las penas convencionales, intereses o créditos por servicio únicamente serán exigibles cuando se establezcan expresamente en el Anexo D o en un convenio firmado por LAS PARTES. La mora se notificará y tratará conforme a la cláusula 16, sin privar a EL CLIENTE del acceso a sus datos.
 
 ## 8. SERVICIOS EXTERNOS E INFRAESTRUCTURA
 
@@ -99,9 +103,9 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 8.2. La arquitectura concreta, región, capacidad, alta disponibilidad y servicios administrados se definirán técnicamente y se aprobarán en el marco del alcance contratado. Se habilitarán entornos separados de pruebas y producción.
 
-8.3. Las referencias originales son: AWS $4,000–$6,500 MXN al mes y dominio $50–$100 MXN al mes. No son precios garantizados ni cuotas contratadas. El presupuesto deberá redimensionarse y aprobarse antes de comprometer consumos.
+8.3. El presupuesto de infraestructura y servicios externos se consignará en el Anexo D y requerirá aprobación escrita de EL CLIENTE antes de comprometer consumos. Los importes dependerán del dimensionamiento autorizado y de las tarifas aplicables de los proveedores; no constituyen una cuota fija a cargo de EL PRESTADOR.
 
-8.4. La referencia original de carga es 30–50 usuarios, hasta 10 simultáneos y 100 GB de archivos, con AWS Virginia y dólar presupuestal de $20 MXN. Son supuestos de referencia, no decisiones definitivas ni un tipo de cambio garantizado. La carga inicial y la recuperación se acordarán y comprobarán al cierre del mes 2; no se reducirán silenciosamente esos supuestos para facilitar pruebas.
+8.4. Para el dimensionamiento inicial se tomarán como referencia 30–50 usuarios, hasta 10 usuarios simultáneos y 100 GB de archivos. La región, capacidad, carga de prueba, criterios de rendimiento y objetivos de recuperación se documentarán en el Anexo D. La capacidad y recuperación se comprobarán al cierre del mes 2. Cualquier modificación de los supuestos de referencia requerirá justificación y aprobación escrita de LAS PARTES.
 
 8.5. EL PRESTADOR advertirá oportunamente límites, costos y restricciones conocidos, y documentará respaldo, restauración y recuperación. Una falla del proveedor externo no excluye su responsabilidad por errores propios de selección, configuración o actuación que le sean imputables.
 
@@ -125,9 +129,9 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 ## 11. GARANTÍA Y CORRECCIÓN DE DEFECTOS
 
-11.1. Cada entrega expresamente aceptada tendrá garantía de 60 días naturales, sin cargo adicional, desde su aceptación. La integración final contará con un periodo propio de 60 días naturales desde la aceptación integral. Los defectos comunicados dentro del periodo aplicable se atenderán hasta su cierre, aunque venza la garantía.
+11.1. Cada entrega expresamente aceptada tendrá garantía de 60 días naturales, sin cargo adicional, desde su aceptación. La integración final contará con un periodo propio de 60 días naturales desde la aceptación integral. Los defectos comunicados dentro del periodo aplicable se atenderán hasta su corrección y cierre, aunque venza la garantía.
 
-11.2. La garantía comprende diagnóstico y corrección de defectos imputables al desarrollo o configuración contratados y la verificación de sus efectos. EL CLIENTE facilitará evidencia y acceso autorizado. EL PRESTADOR registrará el incidente, comunicará diagnóstico, acciones y avance, y propondrá un plazo de corrección acorde a su gravedad; los SLA numéricos requieren acuerdo separado.
+11.2. La garantía comprende diagnóstico y corrección de defectos imputables al desarrollo o configuración contratados y la verificación de sus efectos. EL CLIENTE facilitará evidencia y acceso autorizado. EL PRESTADOR registrará el incidente, comunicará diagnóstico, acciones y avance, y propondrá un plazo de corrección acorde a su gravedad; los tiempos de atención y recuperación serán los consignados en el Anexo D para la cobertura aplicable.
 
 11.3. No son defectos garantizados las funciones nuevas, cambios de terceros o daños atribuibles exclusivamente a modificaciones no autorizadas, uso contrario a instrucciones documentadas o infraestructura fuera del alcance. La exclusión debe demostrarse y limitarse al efecto causado; no anula globalmente la garantía. El mantenimiento opcional no será requisito para ejercerla.
 
@@ -137,9 +141,9 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 12.2. La operación 24/7 de R360 no implica atención técnica ni disponibilidad garantizada 24/7. Los horarios, contacto de emergencia, severidades, tiempos de primera respuesta, recuperación, escalamiento y remedios deberán acordarse expresamente. Primera respuesta y recuperación son métricas distintas y no equivalen a resolución definitiva.
 
-12.3. Los tiempos originales de cuatro horas hábiles para críticos, ocho para altos y dos días hábiles para normales son referencias pendientes de revisión; R360 solicitó tiempos menores. No quedan adoptados como SLA por reproducirse aquí. Tampoco quedan pactados porcentajes de disponibilidad, créditos ni penas por servicio.
+12.3. Los niveles de servicio se documentarán en el Anexo D, indicando cobertura, horarios, canales de reporte, severidades, cómputo de plazos, tiempos de primera respuesta, objetivos de recuperación, escalamiento y medición. Cualquier compromiso de disponibilidad, crédito o pena convencional deberá constar expresamente y estar firmado por LAS PARTES. Su aplicación no sustituye las obligaciones de garantía y seguridad previstas en este contrato.
 
-12.4. El mantenimiento posterior es opcional. La referencia de $5,000–$10,000 MXN mensuales más IVA no es una mensualidad contratada. Su contratación requerirá convenio con cobertura, precio, horario, niveles de servicio, exclusiones, duración y cancelación. Su ausencia no extingue las obligaciones de garantía, seguridad, entrega y confidencialidad de este contrato.
+12.4. El mantenimiento posterior es opcional y se contratará mediante convenio que establezca cobertura, precio, horario, niveles de servicio, exclusiones, duración y cancelación. La falta de contratación de mantenimiento no extingue las obligaciones de garantía, seguridad, entrega y confidencialidad de este contrato.
 
 ## 13. INFORMACIÓN, CONFIDENCIALIDAD Y DATOS PERSONALES
 
@@ -149,7 +153,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 13.3. No se considera confidencial la información que se acredite pública sin infracción, previamente conocida de forma legítima, recibida lícitamente sin deber de reserva o desarrollada independientemente. Ante un requerimiento legal, se notificará previamente si la ley lo permite y se revelará solo lo indispensable.
 
-13.4. La reserva se mantendrá durante la relación y cinco años después; respecto de datos personales, secretos protegidos y credenciales subsistirá mientras resulte exigible por su naturaleza o por ley. La devolución o supresión no extingue esa obligación. Ninguna parte podrá publicar expedientes, marcas, capturas ni casos del proyecto como portafolio sin autorización escrita.
+13.4. La reserva se mantendrá durante la relación y por __________ años después de su terminación; respecto de datos personales, secretos protegidos y credenciales subsistirá mientras resulte exigible por su naturaleza o por ley. La devolución o supresión no extingue esa obligación. Ninguna parte podrá publicar expedientes, marcas, capturas ni casos del proyecto como portafolio sin autorización escrita.
 
 13.5. Los incidentes de seguridad se notificarán sin dilación conforme al Anexo C. No se utilizarán datos ni documentos del proyecto para entrenar modelos o fines publicitarios. El desarrollo y sus pruebas emplearán preferentemente información sintética o anonimizada; el uso real requerirá necesidad y autorización.
 
@@ -157,7 +161,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 14.1. Al liquidarse el precio, EL PRESTADOR entregará los resultados definitivos y cederá por escrito, de forma exclusiva y onerosa, a EL CESIONARIO los derechos patrimoniales que le correspondan sobre el código a medida, diseños y documentación creados específicamente para el proyecto. La contraprestación de esta cesión se incluye en el precio del desarrollo y no genera un cobro adicional.
 
-14.2. La cesión comprende reproducción, distribución, comunicación pública, puesta a disposición, modificación, adaptación y transformación, así como autorización de uso a terceros y explotación de versiones derivadas, en cualquier territorio, por quince años desde la liquidación, prorrogables mediante acuerdo escrito conforme a la legislación aplicable. Se respetan los derechos morales y otras facultades irrenunciables. Este plazo y las formalidades de la cesión quedan sujetos a aceptación expresa de LAS PARTES en la versión de firma.
+14.2. La cesión comprende reproducción, distribución, comunicación pública, puesta a disposición, modificación, adaptación y transformación, así como autorización de uso a terceros y explotación de versiones derivadas, en cualquier territorio, por un plazo de __________ años contado desde la liquidación. Las prórrogas deberán formalizarse por escrito conforme a la legislación aplicable. Se respetan los derechos morales y demás facultades irrenunciables. La cesión se documentará con identificación de las obras, su alcance, contraprestación y vigencia.
 
 14.3. EL PRESTADOR obtendrá de sus autores, empleados o colaboradores las autorizaciones o cesiones necesarias y documentará la cadena de titularidad. No podrá reutilizar ni divulgar el código específico o información confidencial de EL CLIENTE sin autorización. Conservará su experiencia general no confidencial.
 
@@ -171,7 +175,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 15.1. Cada parte responderá por el incumplimiento imputable de sus obligaciones y los daños directos demostrados que cause, conforme a la ley. No se presume una indemnización por la sola ocurrencia de una falla; deberá establecerse su causa, atribución y cuantía. La persona afectada adoptará medidas razonables de mitigación.
 
-15.2. No se pacta un límite global convencional de responsabilidad ni una pena automática. Las responsabilidades que legalmente no puedan excluirse conservarán plena aplicación. Los resultados judiciales y actuaciones profesionales no se garantizan por EL PRESTADOR, sin excluir su responsabilidad por el funcionamiento contratado del sistema.
+15.2. Cualquier limitación convencional de responsabilidad requerirá acuerdo expreso y escrito de LAS PARTES. Las responsabilidades que legalmente no puedan excluirse conservarán plena aplicación. EL PRESTADOR no garantiza resultados judiciales o actuaciones profesionales, sin perjuicio de su responsabilidad por el funcionamiento contratado del sistema.
 
 15.3. EL PRESTADOR informará el uso de subcontratistas con acceso relevante al proyecto o datos y obtendrá la autorización requerida en el Anexo C. Seguirá respondiendo por sus prestaciones. Cada parte dirigirá y asumirá las obligaciones laborales, fiscales y de seguridad social de su propio personal; no se crea subordinación entre este y la contraparte.
 
@@ -179,7 +183,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 ## 16. INCUMPLIMIENTO, SUBSANACIÓN Y SUSPENSIÓN
 
-16.1. La parte afectada notificará por escrito el incumplimiento, su evidencia y el remedio solicitado. La otra contará con diez días hábiles desde la recepción para subsanar o, si no es materialmente posible concluir en ese plazo, someter un plan con medidas y fecha cierta a aceptación escrita. Este procedimiento no sustituye el aviso sin dilación ni las medidas urgentes ante incidentes.
+16.1. La parte afectada notificará por escrito el incumplimiento, su evidencia y el remedio solicitado. La otra contará con __________ días hábiles desde la recepción para subsanar o, si no es materialmente posible concluir en ese plazo, someter un plan con medidas y fecha cierta a aceptación escrita. Este procedimiento no sustituye el aviso sin dilación ni las medidas urgentes ante incidentes.
 
 16.2. Si el incumplimiento es sustancial y no se subsana ni se acepta un plan dentro del plazo, la parte cumplida podrá dar por terminado el contrato mediante aviso escrito, sin perjuicio de las acciones legales procedentes. La falta de aceptación por defectos comprobados no se tratará como incumplimiento de pago del saldo final.
 
@@ -187,11 +191,11 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 ## 17. TERMINACIÓN ANTICIPADA Y TRANSICIÓN
 
-17.1. LAS PARTES podrán terminar de común acuerdo o por incumplimiento conforme a la cláusula anterior. EL CLIENTE también podrá terminar por conveniencia mediante aviso con quince días naturales de anticipación. No habrá penalización automática por terminar; se liquidarán prestaciones verificables conforme a esta cláusula.
+17.1. LAS PARTES podrán terminar de común acuerdo o por incumplimiento conforme a la cláusula anterior. EL CLIENTE también podrá terminar por conveniencia mediante aviso con __________ días naturales de anticipación. No habrá penalización automática por terminar; se liquidarán prestaciones verificables conforme a esta cláusula.
 
-17.2. Dentro de diez días hábiles de la terminación, EL PRESTADOR presentará inventario de avances, evidencia, entregables utilizables o en curso, anticipos recibidos y costos de terceros previamente autorizados y no cancelables. Los avances se valorarán según el alcance y precio contratados, sin convertir unilateralmente el precio fijo en tarifas por hora ni cobrar trabajo no realizado.
+17.2. Dentro de __________ días hábiles de la terminación, EL PRESTADOR presentará inventario de avances, evidencia, entregables utilizables o en curso, anticipos recibidos y costos de terceros previamente autorizados y no cancelables. Los avances se valorarán según el alcance y precio contratados, sin convertir unilateralmente el precio fijo en tarifas por hora ni cobrar trabajo no realizado.
 
-17.3. LAS PARTES conciliarán importes devengados y anticipos no devengados. EL PRESTADOR devolverá estos últimos y EL CLIENTE pagará los avances debidamente acreditados en los diez días hábiles siguientes a la liquidación acordada. Las cantidades controvertidas se documentarán y no impedirán devolver datos, accesos o montos no controvertidos. Los daños por incumplimiento se resolverán por separado conforme a la ley.
+17.3. LAS PARTES conciliarán importes devengados y anticipos no devengados. EL PRESTADOR devolverá estos últimos y EL CLIENTE pagará los avances debidamente acreditados en los __________ días hábiles siguientes a la liquidación acordada. Las cantidades controvertidas se documentarán y no impedirán devolver datos, accesos o montos no controvertidos. Los daños por incumplimiento se resolverán por separado conforme a la ley.
 
 17.4. Se entregarán código y materiales correspondientes a resultados pagados o incluidos en la liquidación, con su estado real y documentación disponible, y se formalizarán sus derechos con las modalidades de la cláusula 14. No se presentará un desarrollo incompleto como funcional ni se condicionará la devolución de la información a pagos controvertidos.
 
@@ -201,7 +205,7 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 18.1. La parte afectada notificará sin dilación un evento extraordinario ajeno a su control, sus efectos y medidas de mitigación, y acreditará la imposibilidad concreta de cumplimiento. Falta de recursos, capacidad insuficiente o fallas evitables de configuración no constituyen por sí mismas fuerza mayor.
 
-18.2. Solo se afectarán las obligaciones que no puedan cumplirse; continuarán las independientes y los deberes de información y conservación. Se acordará un calendario ajustado, sin cargos automáticos. Si la imposibilidad persiste más de treinta días naturales, cualquiera podrá terminar el trabajo afectado con liquidación y transición conforme a la cláusula 17, sin pena por ese solo hecho.
+18.2. Solo se afectarán las obligaciones que no puedan cumplirse; continuarán las independientes y los deberes de información y conservación. Se acordará un calendario ajustado, sin cargos automáticos. Si la imposibilidad persiste más de __________ días naturales, cualquiera podrá terminar el trabajo afectado con liquidación y transición conforme a la cláusula 17, sin pena por ese solo hecho.
 
 ## 19. NOTIFICACIONES Y ACUERDOS
 
@@ -217,27 +221,27 @@ Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, M
 
 20.2. Ninguna parte transferirá íntegramente su posición contractual sin consentimiento escrito de la otra, salvo la designación de EL CESIONARIO prevista expresamente. La contratación de terceros no libera a EL PRESTADOR.
 
-20.3. Se propone la aplicación de las leyes mexicanas, incluidas las disposiciones civiles o mercantiles que correspondan a la naturaleza del acto, derechos de autor y protección de datos. LAS PARTES intentarán resolver diferencias mediante negociación entre sus representantes durante quince días hábiles desde el aviso de controversia, sin impedir medidas urgentes ni interrumpir plazos legales por ese solo hecho.
+20.3. Este contrato se regirá por las leyes mexicanas, incluidas las disposiciones civiles o mercantiles que correspondan a la naturaleza del acto, derechos de autor y protección de datos. LAS PARTES intentarán resolver diferencias mediante negociación entre sus representantes durante __________ días hábiles desde el aviso de controversia, sin impedir medidas urgentes ni interrumpir plazos legales por ese solo hecho.
 
-20.4. De persistir la diferencia, se someterán a los tribunales competentes con jurisdicción en Naucalpan de Juárez, Estado de México, siempre que la elección sea legalmente válida, sin afectar competencias irrenunciables. Esta elección se incorpora conforme a la indicación del lugar de contratación y ejecución, sin alterar las competencias que establezca la ley.
+20.4. De persistir la diferencia, se someterán a los tribunales competentes con jurisdicción en Naucalpan de Juárez, Estado de México, siempre que la elección sea legalmente válida, sin afectar competencias irrenunciables. La elección de jurisdicción no modifica las competencias que establezca la ley.
 
 ## FIRMAS DEL CONTRATO
 
-Leído el contrato y sus anexos A a E, LAS PARTES manifiestan su conformidad con el contenido completado y firman en el lugar y fecha indicados en la sección 1. No deberán firmarse campos vacíos ni anexos pendientes presentados como cerrados.
+Leído este contrato y sus anexos A a E, y enteradas LAS PARTES de su contenido y alcance, lo firman en el lugar y fecha indicados en la sección 1.
 
 EL CLIENTE: ______________________________
 
-Nombre, cargo y firma: [POR COMPLETAR]
+Nombre y carácter: ______________________________
 
 EL PRESTADOR: ____________________________
 
 Roberto Alejandro Guzmán Winzig · Persona física, por propio derecho
 
-EL CESIONARIO, SI ES DISTINTO, ACEPTA LA DESIGNACIÓN Y CESIÓN CONDICIONADA:
+EL CESIONARIO, CUANDO SEA DISTINTO DE EL CLIENTE:
 
 Nombre o razón social, representante y firma: ______________________________
 
-## ANEXO A · ALCANCE FUNCIONAL Y ENTREGABLES
+## ANEXO A. ALCANCE FUNCIONAL Y ENTREGABLES
 
 ### A.1. Plataforma, usuarios y autonomía
 
@@ -267,7 +271,7 @@ Reglas sin IA para integridad según campos, documentos y autorizaciones exigibl
 
 ### A.6. API e intercambio
 
-API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente de R360, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. No se promete que un solo formato sea aceptado por todos los clientes ni compatibilidad automática con sistemas desconocidos.
+API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente de R360, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. La compatibilidad de cada conexión se determinará conforme a las especificaciones documentadas del sistema externo.
 
 Cada ficha de intercambio identificará entidades y campos, sentido de flujo, identificadores, catálogos, documentos admitidos, formato, mecanismo de envío, permisos, frecuencia, volumen máximo por lote y reglas de validación, duplicados, actualización y trazabilidad. La importación mostrará el resultado de validación, registros aceptados o rechazados y sus motivos; no modificará datos de otra cuenta ni producirá duplicados por reintento. Se acordará el tratamiento de errores y de resultados parciales. Las exportaciones respetarán filtros y permisos por cliente. No se enviarán datos entre clientes de R360 sin autorización.
 
@@ -281,25 +285,41 @@ Diseños editables y componentes; código fuente a medida; accesos y configuraci
 
 No se incluyen IA, conectores futuros no acordados, operación sin internet, transferencias de dinero ni emisión fiscal desde el CRM. La importación y exportación por cliente sí forman parte del precio en los términos de A.6; no se presume una migración histórica extraordinaria o depuración manual no acordada. Permanecen incluidas la extensibilidad de interfaces y las funciones expresamente enumeradas. EL CLIENTE aporta contenidos, reglas profesionales, atención y gastos jurídicos; contrata consumos externos aprobados y suministra accesos válidos.
 
-## ANEXO B · HITOS, PAGOS Y ACEPTACIÓN
+## ANEXO B. HITOS, PAGOS Y ACEPTACIÓN
 
 ### B.1. Calendario económico
 
-| Periodo | Resultado contractual principal | Base MXN | IVA MXN | Total MXN | Exigibilidad |
-| --- | --- | --- | --- | --- | --- |
-| Mes 1 | Definición días 1–15; arquitectura modular y multicliente, diseño funcional, PWA, API base, usuarios y permisos; preparación de infraestructura y controles. | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del periodo; primer pago para arranque. |
-| Mes 2 | Servicios iniciales al día 45; al cierre del mes, producción, API documentada, seguridad, segregación, fotos a PDF, alertas, tareas, restauración, monitoreo y capacidad. | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 2. |
-| Mes 3 | Defensa y Recuperación Civil, Subrogación y Mediación y modalidades descritas en A.4; ampliación de API. | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 3. |
-| Mes 4 | Control económico, administración, supervisión, calidad, valoraciones, reportes y salud de expedientes. | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 4. |
-| Mes 5 | Portafolio adicional descrito en A.4, conforme a recorridos aprobados. | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 5. |
-| Mes 6 | Integraciones acordadas, reportes ejecutivos, validación integral, regresión, documentación, capacitación, entrega final y derechos al liquidar. | 25,000.00 | 4,000.00 | 29,000.00 | Contra revisión, entrega y aceptación final. |
-| TOTAL | Desarrollo completo | 200,000.00 | 32,000.00 | 232,000.00 | Sin incrementos automáticos. |
+**Entregas mensuales**
+
+Mes 1: Definición días 1–15; arquitectura modular y multicliente, diseño funcional, PWA, API base, usuarios y permisos; preparación de infraestructura y controles.
+
+Mes 2: Servicios iniciales al día 45; al cierre del mes, producción, API documentada, seguridad, segregación, fotos a PDF, alertas, tareas, restauración, monitoreo y capacidad.
+
+Mes 3: Defensa y Recuperación Civil, Subrogación y Mediación y modalidades descritas en A.4; ampliación de API.
+
+Mes 4: Control económico, administración, supervisión, calidad, valoraciones, reportes y salud de expedientes.
+
+Mes 5: Portafolio adicional descrito en A.4, conforme a recorridos aprobados.
+
+Mes 6: Integraciones acordadas, reportes ejecutivos, validación integral, regresión, documentación, capacitación, entrega final y derechos al liquidar.
+
+**Calendario de pagos**
+
+| Periodo | Base MXN | IVA MXN | Total MXN | Exigibilidad |
+| --- | ---: | ---: | ---: | --- |
+| Mes 1 | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del periodo; primer pago para arranque. |
+| Mes 2 | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 2. |
+| Mes 3 | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 3. |
+| Mes 4 | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 4. |
+| Mes 5 | 35,000.00 | 5,600.00 | 40,600.00 | Inicio del mes 5. |
+| Mes 6 | 25,000.00 | 4,000.00 | 29,000.00 | Contra revisión, entrega y aceptación final. |
+| TOTAL | 200,000.00 | 32,000.00 | 232,000.00 | Sin incrementos automáticos. |
 
 ### B.2. Evidencia de aceptación
 
 Cada caso aprobado identificará servicio, cuenta y perfil, precondiciones, datos de prueba, pasos, resultado esperado, resultado obtenido, evidencia y responsable. Las pruebas de permisos deberán incluir accesos denegados y separación entre clientes, no solo accesos permitidos. Se registrarán defectos y correcciones.
 
-Al día 45: demostración de recorridos completos y utilizables de Asistencia Legal Automovilística y Gestoría Vehicular, con perfiles y estados aprobados, documentos, actuaciones, responsables y cierre conforme a sus reglas. No se confunde este hito con la aceptación de todo el portafolio ni con el control integral de infraestructura del cierre del mes 2.
+Al día 45: puesta en funcionamiento y verificación de recorridos completos y utilizables de Asistencia Legal Automovilística y Gestoría Vehicular, con perfiles y estados aprobados, documentos, actuaciones, responsables y cierre conforme a sus reglas. La aceptación integral del portafolio y la validación de infraestructura se sujetarán a sus respectivos hitos.
 
 Al cierre del mes 2: recorridos iniciales en producción; instalación y uso de PWA en dispositivos acordados; documentos y fotografías convertidas a PDF; bandeja, alertas y tareas; permisos y segregación; operaciones API autorizadas y rechazadas con documentación; monitoreo y alertas; respaldo identificado y restauración probada con verificación de integridad; prueba de la carga inicial aprobada con métricas y resultados frente a umbrales acordados. Sin fallas críticas abiertas.
 
@@ -309,9 +329,17 @@ Cierre del mes 6: evidencia de los intercambios e integraciones por cliente incl
 
 ### B.3. Registro de hitos
 
-T0: [POR COMPLETAR EN ACTA]. Fecha límite del día 45: [POR COMPLETAR]. Cierre del mes 2: [POR COMPLETAR]. Cierre del mes 6: [POR COMPLETAR]. Las fechas se calcularán conforme a la cláusula 5. La revisión de cinco días hábiles y la corrección de defectos se regirán por la cláusula 9; nunca por aceptación tácita.
+| Hito | Fecha |
+| --- | --- |
+| Arranque, T0 | ____________________ |
+| Cierre de definición, días 1–15 | ____________________ |
+| Hito de 45 días naturales | ____________________ |
+| Cierre del mes 2 | ____________________ |
+| Cierre del mes 6 | ____________________ |
 
-## ANEXO C · TRATAMIENTO Y SEGURIDAD DE LA INFORMACIÓN
+Las fechas se calcularán conforme a la cláusula 5. La revisión de cinco días hábiles y la corrección de defectos se regirán por la cláusula 9. El silencio no constituye aceptación.
+
+## ANEXO C. TRATAMIENTO Y SEGURIDAD DE LA INFORMACIÓN
 
 ### C.1. Roles y finalidades
 
@@ -331,11 +359,11 @@ Se implementarán control de acceso por perfil y cuenta, identificación individ
 
 ### C.5. Proveedores, alojamiento y transferencias
 
-Antes de permitir acceso a datos, se identificarán proveedores, servicios, ubicaciones o regiones de tratamiento y subencargados, y se obtendrá autorización documentada de EL CLIENTE. EL PRESTADOR exigirá deberes equivalentes y seguirá respondiendo por su actuación contractual. EL CLIENTE validará las bases y avisos de transferencias nacionales o internacionales que legalmente se requieran. La referencia histórica a Virginia no constituye autorización de transferencia ni selección definitiva de región.
+Antes de permitir acceso a datos, se identificarán proveedores, servicios, ubicaciones o regiones de tratamiento y subencargados, y se obtendrá autorización documentada de EL CLIENTE. EL PRESTADOR exigirá deberes equivalentes y seguirá respondiendo por su actuación contractual. EL CLIENTE validará las bases y avisos de transferencias nacionales o internacionales que legalmente se requieran. La región de alojamiento y las transferencias autorizadas se identificarán en el Anexo D.
 
 ### C.6. Incidentes
 
-Quien detecte un incidente que comprometa información o continuidad lo comunicará sin dilación al contacto designado, sin esperar a concluir la investigación. El aviso incluirá lo conocido sobre naturaleza, momento, datos y sistemas afectados, riesgos, contención y contacto; se actualizará conforme existan hechos comprobados. EL PRESTADOR preservará evidencia, contendrá el incidente, colaborará en recuperación y emitirá reporte de causa y medidas. EL CLIENTE coordinará las comunicaciones a titulares o autoridades que le correspondan; EL PRESTADOR le facilitará información y atenderá sus deberes legales propios. El SLA pendiente no suspende este deber de aviso y actuación.
+Quien detecte un incidente que comprometa información o continuidad lo comunicará sin dilación al contacto designado, sin esperar a concluir la investigación. El aviso incluirá lo conocido sobre naturaleza, momento, datos y sistemas afectados, riesgos, contención y contacto; se actualizará conforme existan hechos comprobados. EL PRESTADOR preservará evidencia, contendrá el incidente, colaborará en recuperación y emitirá reporte de causa y medidas. EL CLIENTE coordinará las comunicaciones a titulares o autoridades que le correspondan; EL PRESTADOR le facilitará información y atenderá sus deberes legales propios. Los niveles de servicio específicos no suspenden este deber de aviso y actuación.
 
 ### C.7. Derechos y verificaciones
 
@@ -343,64 +371,198 @@ EL PRESTADOR remitirá sin dilación solicitudes de titulares al responsable des
 
 ### C.8. Fin del tratamiento
 
-Al concluir el servicio, EL PRESTADOR devolverá información y exportaciones disponibles, transferirá administración y revocará sus accesos. De acuerdo con instrucciones escritas de EL CLIENTE, suprimirá copias bajo su control y documentará la eliminación, salvo conservación legal obligatoria, que deberá justificar, limitar y proteger. Las copias de respaldo seguirán el ciclo de retención aprobado, sin reutilización y con supresión al vencerlo; no se prometerá borrado inmediato que sea técnicamente imposible. El acta de transición especificará fechas, excepciones, responsables y constancia de cierre. Los datos en cuentas de EL CLIENTE permanecerán bajo su control.
+Al concluir el servicio, EL PRESTADOR devolverá información y exportaciones disponibles, transferirá administración y revocará sus accesos. De acuerdo con instrucciones escritas de EL CLIENTE, suprimirá copias bajo su control y documentará la eliminación, salvo conservación legal obligatoria, que deberá justificar, limitar y proteger. Las copias de respaldo seguirán el ciclo de retención aprobado, sin reutilización y con supresión al vencerlo; se documentarán las restricciones técnicas y los plazos de eliminación aplicables. El acta de transición especificará fechas, excepciones, responsables y constancia de cierre. Los datos en cuentas de EL CLIENTE permanecerán bajo su control.
 
-## ANEXO D · DEFINICIONES PENDIENTES Y NIVELES DE SERVICIO
+## ANEXO D. PARÁMETROS OPERATIVOS Y NIVELES DE SERVICIO
 
-### D.1. Regla de control
+### D.1. Definición y aprobación de parámetros
 
-Este anexo hace visibles los extremos que la cotización deja abiertos. Una casilla vacía o una referencia histórica no equivale a aprobación, exención de la prestación incluida ni autorización para cobrarla aparte. Las definiciones necesarias para un hito deberán cerrarse antes de su prueba; las ampliaciones reales seguirán la cláusula 10. Si un SLA o remedio es condición esencial de contratación, deberá acordarse antes de firmar el contrato.
+Los parámetros de este anexo documentarán las especificaciones del alcance contratado. Las reglas, catálogos, recorridos y criterios de aceptación se formalizarán durante los días 1 a 15. Los parámetros de capacidad y recuperación deberán estar aprobados antes de las pruebas del mes 2; los proveedores y autorizaciones de datos, antes del tratamiento de información real; y las especificaciones de cada integración, antes de su implementación.
 
-| Tema | Definición necesaria y momento | Estado al preparar el contrato |
+Los compromisos económicos, niveles de servicio y penas convencionales requerirán acuerdo expreso de LAS PARTES. La definición de una prestación incluida no autoriza un incremento de precio. Las ampliaciones se sujetarán a la cláusula 10.
+
+### D.2. Cobertura y atención de incidentes
+
+| Concepto | Especificación |
+| --- | --- |
+| Servicio y etapa cubiertos | ______________________________ |
+| Vigencia de la cobertura | ______________________________ |
+| Días y horario de atención | ______________________________ |
+| Zona horaria | Hora local de Naucalpan de Juárez, Estado de México |
+| Canal de reporte | ______________________________ |
+| Contacto de atención | ______________________________ |
+| Contacto de emergencia | ______________________________ |
+| Responsable de clasificación | ______________________________ |
+| Inicio, pausas y reanudación del cómputo | ______________________________ |
+| Procedimiento de escalamiento | ______________________________ |
+| Ventanas de mantenimiento | ______________________________ |
+
+| Severidad | Primera respuesta | Objetivo de recuperación |
 | --- | --- | --- |
-| Identidad, poderes, cesionario y avisos | Completar sección 1 antes de firma. Lugar y jurisdicción: Naucalpan de Juárez, Estado de México. | [DATOS DE IDENTIFICACIÓN PENDIENTES] |
-| Capacidad del prestador y arranque | Confirmar capacidad antes de contratar; registrar pago, aprobación inicial, accesos y T0. | [POR DOCUMENTAR] |
-| Recorridos y criterios | Catálogos, estados, campos, coberturas, perfiles, dispositivos, tamaños y formatos; días 1–15. | [POR APROBAR] |
-| Salud de expedientes | Matriz, ponderaciones, excepciones, faltantes críticos y destinatarios; definición funcional. | [POR APROBAR] |
-| Infraestructura y presupuesto | Arquitectura, región, capacidad y servicios; dimensionar antes de comprometer consumos. | [POR APROBAR] |
-| Capacidad inicial y recuperación | Carga, umbrales medibles, retención, frecuencia de respaldo, pérdida máxima tolerable de datos y tiempo objetivo de recuperación; antes de pruebas del mes 2. | [POR APROBAR Y PROBAR] |
-| Datos y proveedores | Roles, avisos, bases legales, categorías, conservación, proveedores y transferencias; antes de datos reales. | [POR DOCUMENTAR] |
-| Integraciones por cliente incluidas | Identificar durante el proyecto los clientes, sus sistemas y los recorridos cubiertos, sin designar clientes específicos en este contrato. Documentar APIs, autorizaciones, equivalencias, dependencias y pruebas antes de implementar. | [INCLUIDAS; ESPECIFICACIÓN PENDIENTE] |
-| Importación y exportación por cliente | Incluidas en el precio. Acordar JSON, CSV o Excel según sistema, lotes, mapeo, duplicados, validación, volúmenes, errores y pruebas; conforme a A.6. | [INCLUIDAS; FORMATO Y VOLUMEN POR DEFINIR] |
-| SLA de soporte | Horarios, emergencias, severidades, respuesta, recuperación, escalamiento, medición y exclusiones; antes de exigir niveles numéricos. | [PENDIENTE DE NEGOCIACIÓN] |
-| Penalizaciones o créditos | Supuestos, prueba, cálculo, límites y procedimiento; únicamente por convenio firmado. | [NO PACTADOS] |
-| Mantenimiento posterior | Cobertura, precio definitivo, horario, duración y cancelación; solo si se contrata. | [OPCIONAL / NO CONTRATADO] |
+| Crítica, conforme a la cláusula 3.4 | ____________________ | ____________________ |
+| Alta: afectación relevante con alternativa operativa | ____________________ | ____________________ |
+| Normal: afectación que no impide el recorrido esencial | ____________________ | ____________________ |
 
-### D.2. Ficha para eventual SLA — no constituye un servicio contratado
+Unidad de cómputo y tratamiento de horas fuera de cobertura: ______________________________.
 
-Vigencia y servicio cubierto: [POR ACORDAR]. Horario y zona: [POR ACORDAR]. Canales y contacto de emergencia: [POR ACORDAR]. Definiciones de severidad y quién clasifica: [POR ACORDAR].
+Compromiso de disponibilidad, periodo de medición y exclusiones: ______________________________.
 
-Incidente crítico: primera respuesta [POR ACORDAR]; objetivo de recuperación [POR ACORDAR]; escalamiento [POR ACORDAR]. Incidente alto: primera respuesta [POR ACORDAR]; recuperación [POR ACORDAR]. Incidente normal: primera respuesta [POR ACORDAR]; tratamiento [POR ACORDAR].
+Evidencia, frecuencia y destinatarios del reporte: ______________________________.
 
-Inicio y pausa del cómputo, mantenimiento programado, medición de disponibilidad, evidencia y reporte: [POR ACORDAR]. Remedios y procedimiento ante incumplimiento, si se pactan: [POR ACORDAR]. Las referencias de cuatro y ocho horas y dos días hábiles no rellenan estos campos. La solicitud de R360 de tiempos menores permanece pendiente hasta aceptación expresa.
+Los tiempos de primera respuesta, recuperación y resolución se medirán por separado. La atención de defectos de garantía y el aviso de incidentes de seguridad se regirán también por las cláusulas 11 y 13 y el Anexo C.
 
-Toda ficha que se cierre deberá identificar fecha, versión, cobertura económica, relación con garantía y firmas de representantes facultados. Hasta entonces siguen vigentes las obligaciones de desarrollo, garantía, monitoreo, aviso de incidentes y subsanación del contrato, sin SLA numérico ni penalización automática.
+### D.3. Penas convencionales, créditos e intereses
 
-## ANEXO E · FORMATOS DE CONTROL Y ACTAS
+| Concepto | Condición |
+| --- | --- |
+| Obligación o hito sujeto a la medida | ______________________________ |
+| Supuesto de incumplimiento imputable | ______________________________ |
+| Base de cálculo e importe o porcentaje | ______________________________ |
+| Periodo y regla de cómputo | ______________________________ |
+| Límite por evento y límite acumulado | ______________________________ |
+| Aviso, evidencia y procedimiento de reclamación | ______________________________ |
+| Relación con subsanación y otros remedios | ______________________________ |
+| Créditos por servicio y forma de aplicación | ______________________________ |
+| Intereses y condiciones de aplicación | ______________________________ |
+
+Estas medidas únicamente serán exigibles en los términos expresamente acordados y firmados por LAS PARTES. Su interpretación y acumulación se sujetarán a las disposiciones legales aplicables.
+
+### D.4. Infraestructura, capacidad y recuperación
+
+| Parámetro | Especificación |
+| --- | --- |
+| Proveedores, servicios y región | ______________________________ |
+| Presupuesto mensual aprobado, moneda e impuestos | ______________________________ |
+| Usuarios totales y simultáneos de la carga de prueba | ______________________________ |
+| Almacenamiento y crecimiento estimado | ______________________________ |
+| Escenarios, duración y datos de la prueba de carga | ______________________________ |
+| Umbrales de rendimiento y tasas de error | ______________________________ |
+| Frecuencia y retención de respaldos | ______________________________ |
+| Pérdida máxima tolerable de datos | ______________________________ |
+| Tiempo objetivo de recuperación | ______________________________ |
+| Procedimiento y evidencia de restauración | ______________________________ |
+| Responsables y destinatarios de alertas | ______________________________ |
+| Dispositivos, tamaños y formatos soportados | ______________________________ |
+
+Se conservarán los supuestos de referencia y la obligación de validación del mes 2 previstos en la cláusula 8.4, salvo modificación expresa y justificada.
+
+### D.5. Importación, exportación e integraciones
+
+La importación y exportación por cliente forman parte del precio conforme a la cláusula 4 y el Anexo A. El inventario identificará los sistemas y recorridos comprendidos en el proyecto. Cada conexión tendrá una ficha con campos, equivalencias, formato, autenticación, permisos, frecuencia, volumen por lote, reglas de actualización y duplicados, tratamiento de errores y casos de aceptación.
+
+Número de sistemas externos incluidos en el inventario: __________.
+
+Identificación y fecha del inventario aprobado: ______________________________.
+
+Responsables de proporcionar documentación, muestras y accesos: ______________________________.
+
+Calendario de disponibilización de sistemas externos: ______________________________.
+
+Criterios de aceptación de importación y exportación por conexión: ______________________________.
+
+El número de sistemas externos del inventario no constituye por sí mismo un límite al número de cuentas de clientes administradas en la plataforma. Las conexiones adicionales y las modificaciones de las incluidas se evaluarán conforme al alcance y al procedimiento de cambios, sin cobrar nuevamente por especificar una función contratada.
+
+### D.6. Tratamiento de datos y autorizaciones
+
+| Concepto | Especificación |
+| --- | --- |
+| Responsables, encargados y contactos | ______________________________ |
+| Categorías de datos y titulares | ______________________________ |
+| Avisos y bases jurídicas aplicables | ______________________________ |
+| Proveedores, subencargados y autorizaciones | ______________________________ |
+| Ubicaciones y transferencias autorizadas | ______________________________ |
+| Plazos de conservación y supresión | ______________________________ |
+| Contacto para incidentes y derechos de titulares | ______________________________ |
+
+### D.7. Aprobación
+
+Fecha: ______ de __________________ de __________.
+
+EL CLIENTE. Nombre y firma: ______________________________.
+
+EL PRESTADOR. Roberto Alejandro Guzmán Winzig. Firma: ______________________________.
+
+## ANEXO E. ACTAS Y CONTROL DEL PROYECTO
 
 ### E.1. Acta de arranque
 
-Contrato y versión: [ ]. Responsables y facultades: [ ]. Primer pago, fecha y comprobante: [ ]. Funciones iniciales aprobadas y evidencia: [ ]. Accesos necesarios recibidos, sin incluir contraseñas: [ ]. Pendientes no bloqueantes y responsables: [ ]. Fecha T0: [ ]. Fin días 1–15: [ ]. Hito día 45: [ ]. Cierre mes 2: [ ]. Cierre mes 6: [ ]. Reunión semanal y medio de registro: [ ]. Conformidad expresa de ambas partes: [ ].
+| Dato | Registro |
+| --- | --- |
+| Identificación del contrato | ______________________________ |
+| Responsables y facultades | ______________________________ |
+| Primer pago, fecha y comprobante | ______________________________ |
+| Aprobación de funciones iniciales y evidencia | ______________________________ |
+| Accesos necesarios recibidos, sin contraseñas | ______________________________ |
+| Dependencias no críticas y responsables | ______________________________ |
+| Fecha de arranque, T0 | ______________________________ |
+| Cierre de definición, días 1–15 | ______________________________ |
+| Hito de 45 días naturales | ______________________________ |
+| Cierre del mes 2 y cierre del mes 6 | ______________________________ |
+| Reunión semanal y medio de registro | ______________________________ |
+| Conformidad y firmas de LAS PARTES | ______________________________ |
 
 ### E.2. Acta de entrega y aceptación
 
-Hito, versión, fecha y ubicación: [ ]. Entregables y documentación: [ ]. Casos de prueba aprobados y evidencia: [ ]. Inicio y fin de revisión de cinco días hábiles: [ ]. Resultado expreso —aceptación, aceptación parcial o diferencias—: [ ]. Defectos críticos: [ ]. Otras observaciones, responsables y fechas: [ ]. Fecha de aceptación y comienzo de garantía: [ ]. Firma o aceptación escrita del responsable facultado: [ ]. El silencio no completa este formato.
+| Dato | Registro |
+| --- | --- |
+| Hito, versión del entregable, fecha y ubicación | ______________________________ |
+| Entregables y documentación | ______________________________ |
+| Casos de aceptación y evidencia | ______________________________ |
+| Inicio y fin de revisión de cinco días hábiles | ______________________________ |
+| Resultado expreso de la revisión | ______________________________ |
+| Defectos, responsables y fechas de corrección | ______________________________ |
+| Fecha de aceptación e inicio de garantía | ______________________________ |
+| Nombre, carácter y firma de quien acepta | ______________________________ |
+
+La aceptación y sus efectos se sujetarán a la cláusula 9.
 
 ### E.3. Solicitud y autorización de cambio
 
-Solicitante, fecha y motivo: [ ]. Alcance actual y cambio solicitado: [ ]. Entregables y exclusiones: [ ]. Impacto de precio e IVA: [ ]. Efecto sobre fechas y dependencias: [ ]. Criterios de aceptación: [ ]. Alternativas evaluadas: [ ]. Aprobación expresa por representantes facultados de ambas partes y fecha: [ ]. Sin aprobación no se modifica el contrato.
+| Dato | Registro |
+| --- | --- |
+| Solicitante, fecha y motivo | ______________________________ |
+| Alcance actual y cambio solicitado | ______________________________ |
+| Entregables y exclusiones | ______________________________ |
+| Impacto económico, moneda e impuestos | ______________________________ |
+| Fechas y dependencias afectadas | ______________________________ |
+| Criterios de aceptación y alternativas | ______________________________ |
+| Autorización de representantes facultados y fecha | ______________________________ |
 
 ### E.4. Acta de cierre, transferencia y cesión
 
-Resultados y versiones, ubicación de código, diseños editables, configuraciones, diccionario, API, manuales y guías: [ ]. Pruebas integrales y de regresión: [ ]. Inventario de integraciones y componentes/licencias: [ ]. Entornos, cuentas, acceso administrativo y revocaciones: [ ]. Capacitaciones, temario, fechas y asistencia: [ ]. Aceptación final y garantía de integración: [ ]. Precio liquidado y comprobantes: [ ]. EL CESIONARIO identificado: [ ]. Fecha de eficacia, alcance y plazo de cesión conforme a la cláusula 14: [ ]. Firmas del cedente y cesionario: [ ]. No se asentarán derechos de terceros como cedidos ni se declarará liquidado un saldo no pagado.
+| Dato | Registro |
+| --- | --- |
+| Resultados, versiones e identificación del código | ______________________________ |
+| Diseños, configuraciones, diccionario y API | ______________________________ |
+| Manuales y guías de operación y recuperación | ______________________________ |
+| Pruebas integrales y de regresión | ______________________________ |
+| Inventario de integraciones, componentes y licencias | ______________________________ |
+| Cuentas, administración y accesos revocados | ______________________________ |
+| Capacitaciones: temario, fechas y asistencia | ______________________________ |
+| Aceptación final e inicio de garantía de integración | ______________________________ |
+| Precio liquidado y comprobantes | ______________________________ |
+| Identidad de EL CESIONARIO | ______________________________ |
+| Fecha, alcance y vigencia de la cesión | ______________________________ |
+| Firmas del cedente y cesionario | ______________________________ |
 
-### E.5. Acta de terminación, en su caso
+La transferencia comprenderá únicamente derechos propios o que EL PRESTADOR esté facultado para transmitir, conforme a la cláusula 14.
 
-Causa, fecha y avisos: [ ]. Avances verificables e inventario de resultados pagados: [ ]. Anticipos, devengados y devolución o saldo: [ ]. Partidas controvertidas: [ ]. Entrega de información, código y derechos de resultados pagados: [ ]. Transición, accesos revocados y estado del sistema: [ ]. Conservación legal, respaldos y fechas de supresión: [ ]. Obligaciones sobrevivientes y firmas: [ ].
+### E.5. Acta de terminación anticipada
+
+| Dato | Registro |
+| --- | --- |
+| Causa, fecha y avisos | ______________________________ |
+| Avances acreditados y resultados pagados | ______________________________ |
+| Anticipos, devengados, devolución o saldo | ______________________________ |
+| Partidas controvertidas | ______________________________ |
+| Entrega de datos, código y derechos correspondientes | ______________________________ |
+| Transición, accesos revocados y estado del sistema | ______________________________ |
+| Conservación legal, respaldos y supresión | ______________________________ |
+| Obligaciones subsistentes y firmas | ______________________________ |
 
 ## CONSTANCIA DE INTEGRACIÓN DE ANEXOS
 
-LAS PARTES reconocen que los anexos A, B, C, D y E identificados en este documento forman parte del contrato. Las fichas operativas podrán completarse en los momentos previstos sin alterar por sí solas el precio, el alcance ni los derechos pactados. Cualquier obligación adicional requerirá la autorización correspondiente.
+LAS PARTES reconocen que los anexos A, B, C, D y E identificados en este documento forman parte del contrato. Los registros operativos se completarán en los momentos previstos sin alterar por sí solas el precio, el alcance ni los derechos pactados. Cualquier obligación adicional requerirá la autorización correspondiente.
 
 EL CLIENTE — nombre y firma: ______________________________
 

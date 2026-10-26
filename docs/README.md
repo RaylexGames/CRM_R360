@@ -1,20 +1,18 @@
-# Documentación del proyecto R360
+# Documentación de R360
 
-Documentos de revisión comercial y contractual. Los borradores no acreditan firma, aceptación ni recepción de pagos. Los campos y condiciones pendientes deben resolverse antes de formalizar lo que corresponda.
+## Contrato
 
-## Contrato · revisión 5
+- [Contrato en PDF](contratos/Contrato_R360.pdf)
+- [Contrato en Word](contratos/Contrato_R360.docx)
+- [Texto del contrato](contratos/Contrato_R360.md)
+- [Datos para formalización](contratos/Datos_para_firma_R360.md)
 
-- [PDF](contratos/Contrato_R360_Revision_5.pdf)
-- [Word editable](contratos/Contrato_R360_Revision_5.docx)
-- [Leer en GitHub](contratos/Contrato_R360_Revision_5.md)
-- [Datos pendientes para firma](contratos/Datos_para_firma_R360.md)
+## Cotización
 
-## Cotización · revisión de cierre 5
+- [Cotización en PDF](cotizaciones/Cotizacion_R360_Revision_5.pdf)
+- [Cotización en Word](cotizaciones/Cotizacion_R360_Revision_5.docx)
+- [Texto de la cotización](cotizaciones/Cotizacion_R360_Revision_5.md)
 
-- [PDF](cotizaciones/Cotizacion_R360_Revision_5.pdf)
-- [Word editable](cotizaciones/Cotizacion_R360_Revision_5.docx)
-- [Leer en GitHub](cotizaciones/Cotizacion_R360_Revision_5.md)
+Los archivos `Contrato_R360` contienen el contrato actualizado. Los campos en blanco corresponden a datos o condiciones que requieren completarse para su formalización. Los registros de ejecución se llenarán en los momentos previstos en el contrato.
 
-La base comercial es COT-R360-20261017-15. El contrato y la cotización incorporan importación y exportación por cliente dentro del precio, sujetas a la especificación de los sistemas y recorridos comprendidos en el alcance.
-
-Los documentos conservan el precio de $200,000 MXN más IVA y el esquema de pagos cotizado. Roberto Alejandro Guzmán Winzig se identifica como prestador persona física, por propio derecho; permanecen campos de identificación y condiciones pendientes.
+Las versiones anteriores se conservan en el historial de Git.
