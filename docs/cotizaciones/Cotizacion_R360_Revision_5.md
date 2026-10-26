@@ -1,4 +1,4 @@
-# Control de Servicios R360
+# CRM Legal R360
 
 PROPUESTA PARA ERIC FABIÁN MUÑOZ · SOCIO DIRECTOR
 
@@ -6,7 +6,7 @@ Documento para revisión funcional y comercial · Revisión de cierre 5. Base co
 
 ## 01 · Brief del proyecto
 
-R360 contará con una plataforma digital propia para centralizar la administración de servicios, clientes, expedientes, responsables, documentos, actividades, seguimiento y control operativo. La solución será una aplicación web progresiva (PWA), instalable y accesible desde computadoras y dispositivos móviles, con arquitectura modular y multicliente: cada cuenta dispondrá de información segregada y configuraciones particulares sin modificar el núcleo común.
+R360 contará con una plataforma digital propia denominada CRM Legal R360 para centralizar la administración de servicios, clientes, expedientes, responsables, documentos, actividades, seguimiento y control operativo. La solución será una aplicación web progresiva (PWA), instalable y accesible desde computadoras y dispositivos móviles, con arquitectura modular y multicliente: cada cuenta dispondrá de información segregada y configuraciones particulares sin modificar el núcleo común.
 
 R360 controlará sus usuarios, permisos, información, servicios y operación cotidiana. La plataforma incorporará captura móvil, gestión documental, seguimiento de tareas, trazabilidad, alertas y mecanismos técnicos de seguridad, respaldo y recuperación. Su arquitectura permitirá integrar nuevos canales, servicios y capacidades de inteligencia artificial en etapas futuras, sin que las funciones de IA formen parte del alcance operativo de esta entrega.
 

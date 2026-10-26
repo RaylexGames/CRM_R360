@@ -1,12 +1,12 @@
 # CONTRATO DE PRESTACIÓN DE SERVICIOS DE DESARROLLO DE SOFTWARE A MEDIDA Y CESIÓN DE DERECHOS PATRIMONIALES
 
-Control de Servicios R360
+CRM Legal R360
 
 ## 1. PARTES Y DATOS DEL CONTRATO
 
 Celebran este contrato, por una parte, ______________________________, quien actúa ______________________________, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL CLIENTE»; y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL PRESTADOR»; conjuntamente, «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
 
-La denominación «R360» identifica el proyecto objeto de este contrato.
+La plataforma objeto de este contrato se denomina «CRM Legal R360».
 
 Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, México.
 
@@ -26,7 +26,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 ## 3. OBJETO, DOCUMENTOS Y DEFINICIONES
 
-3.1. EL PRESTADOR diseñará, desarrollará, configurará, probará, desplegará y documentará Control de Servicios R360, capacitará a sus usuarios y entregará los resultados y derechos contratados. EL CLIENTE pagará el precio y colaborará en los términos convenidos.
+3.1. EL PRESTADOR diseñará, desarrollará, configurará, probará, desplegará y documentará CRM Legal R360, capacitará a sus usuarios y entregará los resultados y derechos contratados. EL CLIENTE pagará el precio y colaborará en los términos convenidos.
 
 3.2. Integran este contrato: Anexo A, alcance y entregables; Anexo B, calendario, pagos y aceptación; Anexo C, tratamiento y seguridad de información; Anexo D, parámetros operativos y niveles de servicio; y Anexo E, formatos de control. Todos deberán rubricarse o identificarse expresamente en la firma electrónica.
 
@@ -254,7 +254,7 @@ Reglas sin IA para integridad según campos, documentos y autorizaciones exigibl
 
 ### A.6. API e intercambio
 
-API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente de R360, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. La compatibilidad de cada conexión se determinará conforme a las especificaciones documentadas del sistema externo.
+API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente de R360, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de CRM Legal R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. La compatibilidad de cada conexión se determinará conforme a las especificaciones documentadas del sistema externo.
 
 Cada ficha de intercambio identificará entidades y campos, sentido de flujo, identificadores, catálogos, documentos admitidos, formato, mecanismo de envío, permisos, frecuencia, volumen máximo por lote y reglas de validación, duplicados, actualización y trazabilidad. La importación mostrará el resultado de validación, registros aceptados o rechazados y sus motivos; no modificará datos de otra cuenta ni producirá duplicados por reintento. Se acordará el tratamiento de errores y de resultados parciales. Las exportaciones respetarán filtros y permisos por cliente. No se enviarán datos entre clientes de R360 sin autorización.
 
