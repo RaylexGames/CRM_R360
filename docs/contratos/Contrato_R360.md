@@ -4,7 +4,7 @@ CRM Legal R360
 
 ## 1. PARTES Y DATOS DEL CONTRATO
 
-Celebran este contrato, por una parte, ______________________________, quien actúa ______________________________, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL CLIENTE»; y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL PRESTADOR»; conjuntamente, «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
+Celebran este contrato, por una parte, Eric ______________________________, persona física que actúa por su propio derecho, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL CLIENTE»; y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL PRESTADOR»; conjuntamente, «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
 
 La plataforma objeto de este contrato se denomina «CRM Legal R360».
 
@@ -16,7 +16,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 ## 2. DECLARACIONES
 
-2.1. Cada parte declara tener capacidad legal para obligarse y, cuando actúe mediante representante, contar con facultades vigentes y suficientes. Entregará a la otra los datos fiscales y los documentos de identificación y representación necesarios, por medios seguros.
+2.1. LAS PARTES declaran ser personas físicas, actuar por su propio derecho y tener capacidad legal para obligarse. Se proporcionarán los datos fiscales y documentos de identificación necesarios por medios seguros.
 
 2.2. EL CLIENTE requiere una plataforma propia para centralizar servicios, clientes, expedientes, responsables, documentos, actividades y control operativo; designará a las personas facultadas para definir y validar sus procesos y aportará información y accesos que pueda utilizar lícitamente.
 
@@ -30,7 +30,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 3.2. Integran este contrato: Anexo A, alcance y entregables; Anexo B, calendario, pagos y aceptación; Anexo C, tratamiento y seguridad de información; Anexo D, parámetros operativos y niveles de servicio; y Anexo E, formatos de control. Todos deberán rubricarse o identificarse expresamente en la firma electrónica.
 
-3.3. Una modificación firmada posterior prevalecerá únicamente sobre lo que cambie de manera expresa. Para lo restante prevalecen este contrato y sus anexos sobre la cotización. Ningún acta operativa podrá eliminar prestaciones cotizadas, aumentar el precio, ceder derechos o imponer penalizaciones sin autorización contractual expresa de representantes facultados.
+3.3. Una modificación firmada posterior prevalecerá únicamente sobre lo que cambie de manera expresa. Para lo restante prevalecen este contrato y sus anexos sobre la cotización. Ningún acta operativa podrá eliminar prestaciones cotizadas, aumentar el precio, ceder derechos o imponer penalizaciones sin autorización contractual expresa de LAS PARTES.
 
 3.4. «Defecto» es una diferencia reproducible respecto del alcance o de los criterios aprobados; «cambio» es una modificación o ampliación de ese alcance. «Falla crítica» es la que impide un recorrido esencial sin alternativa razonable, ocasiona pérdida o corrupción relevante de datos, acceso no autorizado o vulneración de la separación entre clientes. «Entrega» es la puesta a disposición verificable de un resultado; «aceptación» es su conformidad expresa y escrita tras la revisión acordada. «API» significa interfaz de programación de aplicaciones. «SLA» identifica los niveles de servicio y sus métricas de atención, disponibilidad o recuperación expresamente convenidos.
 
@@ -42,9 +42,9 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 4.2. EL CLIENTE tendrá autonomía para administrar cuentas, usuarios, permisos, información y operación. Se definirán los dispositivos, formatos, tamaños, reglas y recorridos soportados sin reducir las funciones expresamente contratadas. La aplicación requiere internet; no se contrata funcionamiento sin conexión.
 
-4.3. No se incluyen funciones de inteligencia artificial, transferencia de dinero, emisión de CFDI por la plataforma ni garantías de resultado jurídico. La Asesoría Telefónica incluida en el portafolio consiste en la administración del servicio profesional. Se incluye la importación y exportación por cliente de R360, también por lotes, con formatos y reglas definidos conforme a A.6; la definición de sus especificaciones no constituye, por sí misma, una ampliación cobrable.
+4.3. No se incluyen funciones de inteligencia artificial, transferencia de dinero, emisión de CFDI por la plataforma ni garantías de resultado jurídico. La Asesoría Telefónica incluida en el portafolio consiste en la administración del servicio profesional. Se incluye la importación y exportación por cliente administrado a través de la plataforma, también por lotes, con formatos y reglas definidos conforme a A.6; la definición de sus especificaciones no constituye, por sí misma, una ampliación cobrable.
 
-4.4. Se incluyen el intercambio y las integraciones de información por cliente de R360 comprendidos en el precio. LAS PARTES identificarán por escrito los clientes y los sistemas objeto de integración, así como los recorridos cubiertos, conforme se definan durante el proyecto, sin presumir un número ilimitado de conectores futuros. Cada conexión requiere conocer el sistema externo, obtener documentación, muestras, accesos, licencias y autorizaciones válidas. La definición de un conector incluido no autoriza un nuevo cobro; cualquier ampliación real deberá justificarse y aprobarse conforme a la cláusula 10. No se presume que todos los clientes dispongan de la misma API o formato.
+4.4. Se incluyen el intercambio y las integraciones de información por cliente administrado a través de la plataforma comprendidos en el precio. LAS PARTES identificarán por escrito los clientes y los sistemas objeto de integración, así como los recorridos cubiertos, conforme se definan durante el proyecto, sin presumir un número ilimitado de conectores futuros. Cada conexión requiere conocer el sistema externo, obtener documentación, muestras, accesos, licencias y autorizaciones válidas. La definición de un conector incluido no autoriza un nuevo cobro; cualquier ampliación real deberá justificarse y aprobarse conforme a la cláusula 10. No se presume que todos los clientes dispongan de la misma API o formato.
 
 4.5. EL CLIENTE presta la atención profesional, aporta contenidos, valida reglas de negocio y cubre los gastos jurídicos. El software registra y facilita la gestión de actuaciones; no sustituye decisiones profesionales ni certifica la legalidad o el éxito de los asuntos.
 
@@ -60,7 +60,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 ## 6. COORDINACIÓN Y COLABORACIÓN
 
-6.1. EL CLIENTE designará un responsable con facultades operativas de decisión y validación. Cabina, jurídico y gestoría participarán en sus recorridos. Solo representantes con facultades suficientes podrán autorizar cambios de precio, alcance contractual, plazo o derechos.
+6.1. EL CLIENTE designará un responsable con facultades operativas de decisión y validación. Cabina, jurídico y gestoría participarán en sus recorridos. Los cambios de precio, alcance contractual, plazo o derechos requerirán autorización expresa de LAS PARTES.
 
 6.2. Habrá revisiones semanales de avance y un registro escrito de decisiones, observaciones, pendientes, responsables y fechas. EL PRESTADOR informará avances demostrables, desviaciones y medidas de corrección; mantendrá identificados los riesgos y dependencias.
 
@@ -122,7 +122,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 12.1. Durante la ejecución se incorporarán monitoreo de PWA, API, base de datos, errores, capacidad y respaldos, alertas al soporte y procedimiento de diagnóstico, contención, recuperación, verificación y reporte posterior. Se documentarán responsables, contactos y reglas de operación conforme al Anexo D.
 
-12.2. La operación 24/7 de R360 no implica atención técnica ni disponibilidad garantizada 24/7. Los horarios, contacto de emergencia, severidades, tiempos de primera respuesta, recuperación, escalamiento y remedios deberán acordarse expresamente. Primera respuesta y recuperación son métricas distintas y no equivalen a resolución definitiva.
+12.2. La operación continua de los servicios administrados mediante la plataforma no implica atención técnica ni disponibilidad garantizada 24/7. Los horarios, contacto de emergencia, severidades, tiempos de primera respuesta, recuperación, escalamiento y remedios deberán acordarse expresamente. Primera respuesta y recuperación son métricas distintas y no equivalen a resolución definitiva.
 
 12.3. Los niveles de servicio se documentarán en el Anexo D, indicando cobertura, horarios, canales de reporte, severidades, cómputo de plazos, tiempos de primera respuesta, objetivos de recuperación, escalamiento y medición. Cualquier compromiso de disponibilidad, crédito o pena convencional deberá constar expresamente y estar firmado por LAS PARTES. Su aplicación no sustituye las obligaciones de garantía y seguridad previstas en este contrato.
 
@@ -202,9 +202,9 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 20.1. Este contrato sustituye negociaciones previas en lo que regula, conservando como base comercial la cotización incorporada. La invalidez de una disposición no anula las restantes cuando puedan subsistir; LAS PARTES la sustituirán por una válida que respete su finalidad. La tolerancia de un incumplimiento no implica renuncia permanente.
 
-20.2. Ninguna parte transferirá íntegramente su posición contractual sin consentimiento escrito de la otra, salvo la designación de EL CESIONARIO prevista expresamente. La contratación de terceros no libera a EL PRESTADOR.
+20.2. La sustitución de cualquiera de LAS PARTES como contratante requerirá un convenio escrito firmado por ambas y por la persona que asuma la posición contractual. La designación de EL CESIONARIO conforme a la cláusula 14 no sustituye por sí misma a EL CLIENTE ni modifica sus obligaciones. La contratación de terceros no libera a EL PRESTADOR.
 
-20.3. Este contrato se regirá por las leyes mexicanas, incluidas las disposiciones civiles o mercantiles que correspondan a la naturaleza del acto, derechos de autor y protección de datos. LAS PARTES intentarán resolver diferencias mediante negociación entre sus representantes durante __________ días hábiles desde el aviso de controversia, sin impedir medidas urgentes ni interrumpir plazos legales por ese solo hecho.
+20.3. Este contrato se regirá por las leyes mexicanas, incluidas las disposiciones civiles o mercantiles que correspondan a la naturaleza del acto, derechos de autor y protección de datos. LAS PARTES intentarán resolver diferencias mediante negociación directa entre LAS PARTES durante __________ días hábiles desde el aviso de controversia, sin impedir medidas urgentes ni interrumpir plazos legales por ese solo hecho.
 
 20.4. De persistir la diferencia, se someterán a los tribunales competentes con jurisdicción en Naucalpan de Juárez, Estado de México, siempre que la elección sea legalmente válida, sin afectar competencias irrenunciables. La elección de jurisdicción no modifica las competencias que establezca la ley.
 
@@ -228,7 +228,7 @@ Nombre o razón social, representante y firma: ______________________________
 
 ### A.1. Plataforma, usuarios y autonomía
 
-PWA instalable para computadora y móvil, con captura por perfil y pasos, confirmación de guardado, prevención de duplicados por reintento y aviso de modificaciones simultáneas. Administración por R360 de cuentas, usuarios y permisos. Configuración por cliente de campos, formatos, coberturas y reglas dentro de las posibilidades acordadas. Separación de información entre cuentas. Uso con internet y validación de dispositivos, tamaños y formatos soportados.
+PWA instalable para computadora y móvil, con captura por perfil y pasos, confirmación de guardado, prevención de duplicados por reintento y aviso de modificaciones simultáneas. Administración de cuentas, usuarios y permisos por EL CLIENTE. Configuración por cliente de campos, formatos, coberturas y reglas dentro de las posibilidades acordadas. Separación de información entre cuentas. Uso con internet y validación de dispositivos, tamaños y formatos soportados.
 
 ### A.2. Expedientes, documentos y seguimiento
 
@@ -254,9 +254,9 @@ Reglas sin IA para integridad según campos, documentos y autorizaciones exigibl
 
 ### A.6. API e intercambio
 
-API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente de R360, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de CRM Legal R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. La compatibilidad de cada conexión se determinará conforme a las especificaciones documentadas del sistema externo.
+API para consultar, registrar y actualizar información autorizada de servicios habilitados, con autenticación, versionado, prevención de duplicados, documentación, errores y reintentos. Exportaciones PDF/CSV y equivalencias de datos para conexiones acordadas. La API de ambos servicios iniciales deberá funcionar y estar documentada al cierre del mes 2; posteriormente se ampliará al portafolio incorporado. Se incluye la importación y exportación por cliente administrado a través de la plataforma, individual y por lotes según el recorrido aprobado y el inventario de integraciones que LAS PARTES documenten durante el proyecto. Se definirá una estructura común de información de CRM Legal R360 y sus equivalencias con cada sistema externo. JSON será un formato preferente para API cuando el tercero lo soporte; los archivos de intercambio podrán ser JSON, CSV o Excel conforme a las especificaciones de cada conexión. La compatibilidad de cada conexión se determinará conforme a las especificaciones documentadas del sistema externo.
 
-Cada ficha de intercambio identificará entidades y campos, sentido de flujo, identificadores, catálogos, documentos admitidos, formato, mecanismo de envío, permisos, frecuencia, volumen máximo por lote y reglas de validación, duplicados, actualización y trazabilidad. La importación mostrará el resultado de validación, registros aceptados o rechazados y sus motivos; no modificará datos de otra cuenta ni producirá duplicados por reintento. Se acordará el tratamiento de errores y de resultados parciales. Las exportaciones respetarán filtros y permisos por cliente. No se enviarán datos entre clientes de R360 sin autorización.
+Cada ficha de intercambio identificará entidades y campos, sentido de flujo, identificadores, catálogos, documentos admitidos, formato, mecanismo de envío, permisos, frecuencia, volumen máximo por lote y reglas de validación, duplicados, actualización y trazabilidad. La importación mostrará el resultado de validación, registros aceptados o rechazados y sus motivos; no modificará datos de otra cuenta ni producirá duplicados por reintento. Se acordará el tratamiento de errores y de resultados parciales. Las exportaciones respetarán filtros y permisos por cliente. No se enviarán datos entre cuentas de clientes de la plataforma sin autorización.
 
 Los casos de aceptación comprobarán con muestras autorizadas el mapeo, importación, actualización, exportación, errores y aislamiento de cada conexión. Para una integración externa, se utilizará el entorno de pruebas autorizado del cliente correspondiente y se validará producción cuando sus accesos estén habilitados; la mera existencia de la API propia no acredita que el conector externo esté entregado. Las dependencias y cualquier reprogramación se regirán por la cláusula 6.4 y requerirán evidencia y acuerdo escrito; no eliminan la obligación ni generan aceptación tácita. La depuración manual de archivos históricos y migraciones extraordinarias no acordadas no se presumen incluidas por existir importación.
 
@@ -326,7 +326,7 @@ Las fechas se calcularán conforme a la cláusula 5. La revisión de cinco días
 
 ### C.1. Roles y finalidades
 
-EL CLIENTE determinará finalidades, licitud, avisos de privacidad y atención de derechos de titulares; en la medida en que decida el tratamiento, actuará como responsable. EL PRESTADOR actuará como encargado respecto de datos a los que acceda por instrucciones de EL CLIENTE para desarrollar, configurar, probar, soportar, respaldar y recuperar el sistema. El tratamiento que cada parte realice por obligación propia, como facturación, se sujetará a su responsabilidad y aviso aplicable. Si los clientes de R360 generan otros roles, deberán identificarse antes de tratar sus datos; este contrato no presume autorizaciones de terceros.
+EL CLIENTE determinará finalidades, licitud, avisos de privacidad y atención de derechos de titulares; en la medida en que decida el tratamiento, actuará como responsable. EL PRESTADOR actuará como encargado respecto de datos a los que acceda por instrucciones de EL CLIENTE para desarrollar, configurar, probar, soportar, respaldar y recuperar el sistema. El tratamiento que cada parte realice por obligación propia, como facturación, se sujetará a su responsabilidad y aviso aplicable. Si intervienen terceros con otros roles de tratamiento, estos deberán identificarse antes de tratar sus datos; este contrato no presume autorizaciones de terceros.
 
 ### C.2. Categorías y límites
 
@@ -509,7 +509,7 @@ La aceptación y sus efectos se sujetarán a la cláusula 9.
 | Impacto económico, moneda e impuestos | ______________________________ |
 | Fechas y dependencias afectadas | ______________________________ |
 | Criterios de aceptación y alternativas | ______________________________ |
-| Autorización de representantes facultados y fecha | ______________________________ |
+| Autorización de LAS PARTES y fecha | ______________________________ |
 
 ### E.4. Acta de cierre, transferencia y cesión
 

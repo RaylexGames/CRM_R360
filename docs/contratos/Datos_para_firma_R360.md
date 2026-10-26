@@ -4,12 +4,12 @@
 
 La identificación inicial del contrato se presenta en un solo párrafo y comprende únicamente:
 
-- Nombre legal completo o razón social.
-- Carácter de contratación.
+- Nombre legal completo de Eric y de Roberto Alejandro Guzmán Winzig.
+- Carácter de contratación: ambas partes son personas físicas que actúan por su propio derecho.
 - RFC.
 - Domicilio fiscal y para notificaciones.
 
-Roberto Alejandro Guzmán Winzig contratará y facturará como persona física, por propio derecho. Sus campos de RFC y domicilio permanecen en blanco.
+Eric contratará como persona física, por su propio derecho. Roberto Alejandro Guzmán Winzig contratará y facturará en el mismo carácter. Se completarán el nombre legal de Eric y los RFC y domicilios de ambas partes. Cualquier sustitución de la parte cliente por una empresa requerirá el convenio escrito previsto en la cláusula 20.2.
 
 ## Condiciones contractuales
 
