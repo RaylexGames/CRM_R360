@@ -1,22 +1,15 @@
 # Datos para formalización
 
-## Parte cliente
+## Datos de identificación de las partes
 
-- Nombre legal completo o razón social de quien contratará.
-- Carácter de quien firma: por propio derecho o en representación de una sociedad.
-- RFC, domicilio fiscal, domicilio para notificaciones y correo contractual.
-- Datos de constitución y facultades del representante, cuando corresponda.
-- Responsable operativo y facultades para aceptar entregas.
-- Titular de los derechos patrimoniales; designación y aceptación cuando sea distinto de la parte cliente.
+La identificación inicial del contrato se presenta en un solo párrafo y comprende únicamente:
 
-## Parte prestadora
+- Nombre legal completo o razón social.
+- Carácter de contratación.
+- RFC.
+- Domicilio fiscal y para notificaciones.
 
-Roberto Alejandro Guzmán Winzig contratará y facturará como persona física, por propio derecho.
-
-- RFC y datos fiscales.
-- Domicilio fiscal y domicilio para notificaciones.
-- Correo contractual y contacto del proyecto.
-- Medio de cobro comunicado por un canal seguro.
+Roberto Alejandro Guzmán Winzig contratará y facturará como persona física, por propio derecho. Sus campos de RFC y domicilio permanecen en blanco.
 
 ## Condiciones contractuales
 

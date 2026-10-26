@@ -4,26 +4,9 @@ Control de Servicios R360
 
 ## 1. PARTES Y DATOS DEL CONTRATO
 
-Celebran este contrato, por una parte, ______________________________, en adelante «EL CLIENTE» y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, en adelante «EL PRESTADOR», conjuntamente «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
+Celebran este contrato, por una parte, ______________________________, quien actúa ______________________________, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL CLIENTE»; y, por otra, Roberto Alejandro Guzmán Winzig, persona física que actúa por su propio derecho, con RFC ____________________ y domicilio fiscal y para notificaciones en ____________________________________________________________, en adelante «EL PRESTADOR»; conjuntamente, «LAS PARTES», conforme a las declaraciones, cláusulas y anexos siguientes.
 
-| Dato | EL CLIENTE | EL PRESTADOR |
-| --- | --- | --- |
-| Nombre o razón social | ______________________________ | Roberto Alejandro Guzmán Winzig |
-| Carácter de contratación | ____________________ | Persona física, por propio derecho |
-| RFC | ____________________ | ____________________ |
-| Domicilio fiscal y para avisos | ____________________ | ____________________ |
-| Representante y cargo, si aplica | ____________________ | No aplica; firma por propio derecho |
-| Instrumento de constitución y poderes, si aplica | ____________________ | No aplica |
-| Correo para notificaciones contractuales | ____________________ | ____________________ |
-| Responsable del proyecto y correo | ____________________ | ____________________ |
-
-La denominación «R360» identifica el proyecto. La identidad y, en su caso, la representación de la parte contratante son las asentadas en esta sección.
-
-El titular de los derechos patrimoniales sobre los resultados será EL CLIENTE o la persona que este designe por escrito, en adelante «EL CESIONARIO».
-
-Nombre o razón social de EL CESIONARIO: ______________________________.
-
-Si EL CESIONARIO es distinto de EL CLIENTE, su designación y aceptación deberán constar por escrito y deberá suscribir el apartado de cesión correspondiente.
+La denominación «R360» identifica el proyecto objeto de este contrato.
 
 Lugar de celebración y cumplimiento: Naucalpan de Juárez, Estado de México, México.
 
@@ -159,7 +142,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 ## 14. PROPIEDAD INTELECTUAL Y TRANSFERENCIA
 
-14.1. Al liquidarse el precio, EL PRESTADOR entregará los resultados definitivos y cederá por escrito, de forma exclusiva y onerosa, a EL CESIONARIO los derechos patrimoniales que le correspondan sobre el código a medida, diseños y documentación creados específicamente para el proyecto. La contraprestación de esta cesión se incluye en el precio del desarrollo y no genera un cobro adicional.
+14.1. Al liquidarse el precio, EL PRESTADOR entregará los resultados definitivos y cederá por escrito, de forma exclusiva y onerosa, a EL CLIENTE o a la persona que este designe por escrito, en adelante «EL CESIONARIO», los derechos patrimoniales que le correspondan sobre el código a medida, diseños y documentación creados específicamente para el proyecto. La contraprestación de esta cesión se incluye en el precio del desarrollo y no genera un cobro adicional. Si EL CESIONARIO es distinto de EL CLIENTE, su designación y aceptación deberán constar por escrito.
 
 14.2. La cesión comprende reproducción, distribución, comunicación pública, puesta a disposición, modificación, adaptación y transformación, así como autorización de uso a terceros y explotación de versiones derivadas, en cualquier territorio, por un plazo de __________ años contado desde la liquidación. Las prórrogas deberán formalizarse por escrito conforme a la legislación aplicable. Se respetan los derechos morales y demás facultades irrenunciables. La cesión se documentará con identificación de las obras, su alcance, contraprestación y vigencia.
 
@@ -209,7 +192,7 @@ La firma de este contrato ratifica el precio y las condiciones comerciales aquí
 
 ## 19. NOTIFICACIONES Y ACUERDOS
 
-19.1. Las notificaciones contractuales se enviarán a los correos y domicilios de la sección 1, con constancia de recepción. Si no hay confirmación verificable, se utilizará un medio alternativo que acredite entrega. Cada parte informará cambios de contacto; mientras no lo haga serán válidos los envíos acreditados al contacto designado.
+19.1. Las notificaciones contractuales se practicarán en los domicilios establecidos en la sección 1 o por los medios electrónicos que LAS PARTES designen por escrito, con constancia de recepción. Si no hay confirmación verificable, se utilizará un medio alternativo que acredite entrega. Cada parte notificará cualquier cambio de domicilio o medio de comunicación; mientras no lo haga, serán válidos los envíos cuya recepción se acredite en los datos previamente designados.
 
 19.2. Los correos y actas con identificación de responsables podrán documentar decisiones operativas. Los cambios contractuales y la aceptación o cesión de derechos deberán contener manifestación expresa de quien tenga facultades y permitir acreditar identidad, contenido e integridad. Ningún silencio equivale a consentimiento.
 
